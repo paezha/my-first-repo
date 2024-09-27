@@ -67,3 +67,7 @@ $$
 Greek letters: $$
 \alpha
 $$
+
+## Git
+
+This repository now is set up for git.
