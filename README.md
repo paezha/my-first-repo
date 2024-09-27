@@ -71,3 +71,7 @@ $$
 ## Git
 
 This repository now is set up for git.
+
+## Github
+
+I also set up or I’m working to set up a github repository.
